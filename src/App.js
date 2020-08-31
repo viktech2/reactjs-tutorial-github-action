@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <Switch>
         <Route exact={true} path="/" component={HomePage} />
+        <Route exact={true} path="/api" component={HomePage} />
         <Route exact={true} path="/dashboard" component={DashboardPage} />
       </Switch>
     </div>
