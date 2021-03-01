@@ -17,7 +17,7 @@ function App() {
 function HomePage() {
   return (
     <div>
-      <h1>Home Page</h1>
+      <h1>Home Page!</h1>
     </div>
   )
 }
@@ -25,7 +25,7 @@ function HomePage() {
 function DashboardPage() {
   return (
     <div>
-      <h1>Dashboard Page</h1>
+      <h1>Dashboard Page!</h1>
     </div>
   )
 }
